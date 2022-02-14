@@ -7,3 +7,17 @@ table {
     border-collapse: collapse;
     background-color: antiquewhite;
 }
+#bilde {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 50%;
+}
+#uzvaretajs {
+    text-align: center;
+    width: 100%;
+}
+body {
+    background-color: rgb(174, 255, 187);
+}
